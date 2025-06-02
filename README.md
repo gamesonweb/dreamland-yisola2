@@ -11,6 +11,8 @@ A 3D puzzle game built with BabylonJS and TypeScript featuring dynamic level loa
 
 **YouTube Gameplay**: [Check it here] (https://youtu.be/wt8TXjbOlls)
 
+**Dark Level**: [Check it here] (https://youtu.be/El8_Y1qvPKc)
+
 ## 📸 Photo Gallery
 
 **Screenshots & Media**: [Check it here] (https://github.com/yisola2/Astral_Queens_GOW2025)

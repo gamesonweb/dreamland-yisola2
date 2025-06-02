@@ -194,7 +194,7 @@ I implemented a dual-mode camera system:
   - Automatic transitions between exploration and puzzle focus
   - Camera interpolation for smooth mode switching
 
-### Altar 5: The Darkness Challenge
+### Altar 5: The Darkness Challenge [Check it here] (https://youtu.be/El8_Y1qvPKc)
 
 I created a special level that transforms the gameplay experience:
 

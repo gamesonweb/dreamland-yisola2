@@ -15,7 +15,7 @@ A 3D puzzle game built with BabylonJS and TypeScript featuring dynamic level loa
 
 ## 📸 Photo Gallery
 
-**Screenshots & Media**: [Check it here] (https://www.dropbox.com/scl/fi/ndni1eam1iangnm6h3v4c/Capture-d-cran-2025-03-31-104229.png?rlkey=mvtseke56pvw1dwrsyelee8kb&st=24dpdjzg&dl=0)
+**Screenshots & Media**: [Check it here] (https://www.dropbox.com/scl/fo/wp60ms9t8t0xd7fwtrx51/AFEUYe_Ihj9EDnMXFBsFjes?rlkey=mxw6t7ejjtkin63j5uz1lhmo7&st=olawqomv&dl=0)
 
 ---
 
